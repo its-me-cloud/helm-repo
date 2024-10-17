@@ -3,12 +3,12 @@ entries:
   bankit-front:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-17T14:02:08.473618786Z"
+    created: "2024-10-17T14:37:09.087788239Z"
     description: A Helm chart for Bankit front-end
-    digest: 49fc2123bb80aa17179a433b9194120b7285a6df3baa8c97d57b43b0d8d0e8cc
+    digest: 1026f01de82fb5f69843eace42c816940a919c234809159fbcd6d53daa766cd3
     name: bankit-front
     type: application
     urls:
     - bankit-front-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-17T14:02:08.462686432Z"
+generated: "2024-10-17T14:37:09.086762053Z"
